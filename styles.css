@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     gap: 100px;
-    
+
 }
 
 .container {
@@ -77,5 +77,16 @@ p {
     color: #F9FAF8;
 }
 
-img {
+.sign-up {
+    display: flex;
+    margin-top: 15px;
+    color: #F9FAF8;
+    height: 30px;
+    width: 125px;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 20px;
 }
+
+img {}
