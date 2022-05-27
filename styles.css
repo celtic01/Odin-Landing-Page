@@ -131,6 +131,30 @@ img {
     margin-top: 180px;
     display: flex;
     font-size: 15px;
+    align-items: center;
+}
+
+.container3 {
+    margin-top: 195px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 300px;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.quote {
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:100;
+    width: 700px;
+}
+
+.quote-author {
+ font-size: 20px;
+ margin-left: 500px;
 }
 
  
